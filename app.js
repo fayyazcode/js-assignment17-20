@@ -65,3 +65,23 @@
 
 //Q7*************************************
 
+//Q8**************
+// var A = [24, 53, 78, 91, 12]
+// document.write("the largest number is ")
+// document.write(Math.max(...A));
+
+
+
+//Q9*********************
+// var A = [24, 53, 78, 91, 12]
+// document.write("the smallest number is ")
+// document.write(Math.min(...A));
+
+//Q10**************************
+
+// var result=0;
+// for(var a=0; a<20;a++){
+
+//      result=(result+5)
+//     document.write(result +" ")
+// }
