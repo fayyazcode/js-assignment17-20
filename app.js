@@ -1,8 +1,17 @@
 //*************Q1 */
-
+// var arr=[[0,1,2,3],[1,0,2,3],[0,3,1,2]]
 
 //*************************Q2 */
 
+// var arr=[[0,1,2,3],[1,0,2,3],[0,3,1,2],[3,0,1,2]]
+
+// for(var a=0;a<arr.length;a++){
+    
+//   for(var i=0;i<arr[a].length;i++){
+//     document.write(arr[a][i])
+//   }
+//   document.write("<br />")
+// }
 
 //***********************Q3
 
@@ -64,7 +73,21 @@
 // }
 
 //Q7*************************************
+// var arr = ["cake", "apple pie", "cookie", "chips", "patties"]
+// var userInput=prompt("Enter Value");
 
+// var flag=false;
+
+// for(var i=0; i<arr.length;i++){
+//     if(userInput === arr[i]){
+//         flag=true
+//         document.write(userInput+" is available in index ( "+i+" ) in our bakery")
+//     }
+
+// }
+// if(flag ===false){
+//     document.write("We are sorry." +userInput+"is not available")
+// }
 //Q8**************
 // var A = [24, 53, 78, 91, 12]
 // document.write("the largest number is ")
